@@ -14,3 +14,9 @@ var i = 0
   }
   return exclamation
 }
+function iLoveTheBeatles(n){
+  var love []
+  do {
+    love.push("I love the Beatles!")
+  } while (n < 15);
+}
