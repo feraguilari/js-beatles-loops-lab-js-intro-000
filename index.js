@@ -15,7 +15,7 @@ var i = 0
   return exclamation
 }
 function iLoveTheBeatles(n){
-  var love [];
+  var love = [];
   do {
     love.push("I love the Beatles!")
     n++
